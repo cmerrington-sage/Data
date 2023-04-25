@@ -1,5 +1,5 @@
 
-Country code,Country label,Sexual orientation (9 categories) code,Sexual orientation (9 categories) label,Sex code,Sex,Age code,Age,Observation
+Country code,Country label,Sexual orientation (9 categories) code,Sexual orientation (9 categories) label,sexc,sex,agec,age,population
 W92000004,Wales,2,Gay or lesbian,1,Female,1,Aged 16 to 24 years,3645
 W92000004,Wales,2,Gay or lesbian,1,Female,2,Aged 25 to 34 years,4645
 W92000004,Wales,2,Gay or lesbian,1,Female,3,Aged 35 to 44 years,3345
